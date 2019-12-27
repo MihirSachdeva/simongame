@@ -3,7 +3,7 @@ The Simon Game.
 
 Instructions:
 
-1) Visit <website> to play the digital version of the popular 80's game, The Simon Game.
+1) Visit https://mihirsachdeva.github.io/simongame/index.html to play the digital version of the popular 80's game, The Simon Game.
 2) Press any key to START the game.
 3) The website will flash and play a sound corresponding to a color Red, Green, Yellow, or Blue.
 4) Click on the flashed color button.
